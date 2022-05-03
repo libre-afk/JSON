@@ -1,6 +1,7 @@
 # JSON
-1. Создать внешний репозиторий с названием JSON.
-__git checkout -b JSON__
+
+|---|---|
+|1. Создать внешний репозиторий с названием JSON.|__git checkout -b JSON__|
 2. Клонировать репозиторий JSON на локальный компьютер.
 __git clone *git@github.com:libre-afk/JSON.git*__ )
 3. Внутри локального JSON создать файл "new.json".
